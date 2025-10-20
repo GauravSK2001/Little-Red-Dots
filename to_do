@@ -1,0 +1,22 @@
+For the Prism spectra: 
+
+                - Resample the SDSS to PRISM resolution
+                - download all the spectral products of SDSS
+                - Download the high z spectra
+                - Stack both the spectra with padding
+                - Bin it and make a measure on variation of continuum ignoring strong emission lines
+
+For a Grism spectra:
+
+                - resample the SDSS to grism? or the other way aroud?
+                - bin the SDSS spectral redshift range
+                - 
+
+
+
+Restart:
+                - Fit the catalogue of different AGN types
+                - AGN+free pee galaxies with Laura
+                - Do the fitting together of the green pee
+                - Hopefully Seyfert is lowest chi-square then Fit the Seyfert population to LRD population to see which subclass wins. Perhaps add Green Pee too
+                - Gaussian+Gaussian , Gausianxexponential+Gausian, single gaussian to the fits of the emission line of the AGN seyfert
